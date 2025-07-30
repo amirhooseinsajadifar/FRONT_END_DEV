@@ -1,0 +1,8 @@
+.app-container {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #74ebd5, #ACB6E5);
+  min-height: 100vh;
+  padding: 1rem;
+  color: #333;
+  text-align: center;
+}
