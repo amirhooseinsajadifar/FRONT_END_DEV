@@ -1,0 +1,51 @@
+🧩 1. Beginner Projects (Core React + JSX + State)
+Project	Key Skills
+✅ To-Do App	useState, props, component structure
+✅ Calculator	Event handling, conditional rendering
+✅ Weather App	API fetching with fetch()
+✅ Quote Generator	useEffect, random logic
+✅ Counter App	useState, UI logic
+
+⚙️ 2. Intermediate Projects (Hooks + Routing + API)
+Project	Key Skills
+📬 Contact Manager	useState, forms, localStorage
+🌍 Country Explorer	REST API, filtering, search, pagination
+🧠 Quiz App	useReducer, useEffect, dynamic data
+🛒 Shopping Cart	useContext, add/remove items, totals
+🎞️ Movie App	External APIs, React Router, conditional UI
+
+🧱 3. UI Design-Focused Projects (Styled + Animations)
+Project	Key Skills
+🎨 Portfolio Site	Styled-components, Tailwind, routing
+🎞 Image Gallery	Masonry layout, modals, transitions
+🧾 Pricing Table	CSS Grid, reusable components
+📱 Responsive Dashboard	Flexbox/Grid, dark mode, mobile first
+📊 Animated Stats Board	Lottie or Framer Motion, chart libs
+
+🔍 4. State Management Projects (Redux, Zustand, etc.)
+Project	Key Skills
+📚 Book Library App	Redux Toolkit or Zustand
+🎵 Music Playlist Manager	Global state, async Redux logic
+🏪 E-Commerce Site	Complex cart/wishlist/store state
+🧭 Authenticated Routes App	Token storage, protected routes
+
+🧪 5. Testing & QA Projects
+Project	Key Skills
+✅ Form Validation App	Jest, React Testing Library
+🔐 Login/Signup UI	Unit + integration tests
+📋 Survey Form	Testing custom hooks, UI snapshot testing
+
+🚀 6. Advanced Projects (Architecture + Performance)
+Project	Key Skills
+📰 Blog Engine (Markdown-based)	File-based content, lazy loading
+🏁 Real-Time Chat App	WebSockets, Firebase, async effects
+🌐 Multi-language Portfolio	i18n, dynamic content loading
+⚡ PWA News Reader	Service workers, offline caching
+🧩 Microfrontend Dashboard	Module federation or lazy imports
+
+💡 7. Tooling / DevOps / Deploy
+Project	Key Skills
+🧱 Design System Showcase	Reusable components, Storybook
+🔧 Dev Playground	Custom hooks lib + tests
+🔄 CI/CD React App	GitHub Actions + Netlify/Vercel
+⚙️ Bundle Analyzer App	Webpack + performance tuning
