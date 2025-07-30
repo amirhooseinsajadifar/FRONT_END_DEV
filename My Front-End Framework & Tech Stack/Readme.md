@@ -1,5 +1,5 @@
-#⚡ My Front-End Framework & Tech Stack
-
+⚡ My Front-End Framework & Tech Stack
+---
 
 🧠 Where Design Meets Code.
 I build fast, beautiful, and responsive interfaces using modern tools and solid architecture. Every line of code is backed by performance, usability, and user-first thinking.
