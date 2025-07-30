@@ -1,0 +1,47 @@
+✅ 📁 Project Overview: Portfolio Website (Next.js)
+🔹 Pages
+Page	Route	Description
+Home	/	Hero section, intro, featured work
+About	/about	Bio, skills, experience
+Projects	/projects	List of projects, each with a page
+Contact	/contact	Contact form or mailto link
+[slug]	/projects/[slug]	Dynamic project detail page
+
+🔧 Key Features
+1. ✅ Dynamic Routing
+Each project gets its own page using [slug].js in /pages/projects/.
+
+2. 📸 Image Optimization
+Use <Image /> from next/image for responsive and optimized images.
+
+3. 🧠 SEO Meta Tags
+Use next/head for title, description, and social preview tags.
+
+🧱 Folder Structure :
+portfolio/
+├── public/
+│   └── images/
+├── pages/
+│   ├── index.js           # Home
+│   ├── about.js
+│   ├── contact.js
+│   └── projects/
+│       ├── index.js       # All projects
+│       └── [slug].js      # Dynamic project page
+├── components/
+│   ├── Layout.js
+│   ├── Navbar.js
+│   ├── Footer.js
+│   ├── ProjectCard.js
+│   └── SEO.js
+├── data/
+│   └── projects.js        # Your projects as JSON or JS object
+├── styles/
+│   └── globals.css
+├── next.config.js
+└── README.md
+
+Recommendation: Maybe if i wana Deployment..... 
+
+for Deploying free I using Vercel (official for Next.js).
+
