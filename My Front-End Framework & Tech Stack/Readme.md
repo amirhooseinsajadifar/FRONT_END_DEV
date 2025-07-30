@@ -23,14 +23,8 @@ A utility-first CSS framework that makes designing clean, responsive layouts a b
 ✨ Framer Motion
 For sleek animations and micro-interactions. I use Framer Motion to breathe life into interfaces, enhancing the overall user experience.
 
-💻 Core Tech Toolbox
-Tech	Why I Use It
-HTML5	Semantic structure for clean, accessible, and SEO-friendly markup
-CSS3	For responsive designs, animations, and layout mastery using Grid & Flexbox
-JavaScript (ES6+)	Dynamic interactivity, async logic, and app logic flow
-TypeScript (optional)	Adds static typing for reliability in large-scale projects
-
 🛠️ Tools That Power My Workflow
+
 🧑‍💻 VS Code – My development cockpit, loaded with smart extensions
 
 🔄 Git + GitHub – For version control, collaboration, and code history
@@ -42,6 +36,7 @@ TypeScript (optional)	Adds static typing for reliability in large-scale projects
 🧰 Chrome DevTools – Debugging, performance auditing, and pixel perfection
 
 📐 My Development Philosophy
+
 🧬 Scalable. Performant. Accessible. Clean.
 
 I code with the following principles:
