@@ -1,10 +1,14 @@
+
 ⚡ My Front-End Framework & Tech Stack
+
 ---
 
 🧠 Where Design Meets Code.
+
 I build fast, beautiful, and responsive interfaces using modern tools and solid architecture. Every line of code is backed by performance, usability, and user-first thinking.
 
 🔥 Frameworks & Libraries I Love
+
 ⚛️ React.js
 A JavaScript library I use to craft dynamic and reusable UI components. It allows me to build Single Page Applications that feel fast, smooth, and intuitive.
 
@@ -41,10 +45,15 @@ TypeScript (optional)	Adds static typing for reliability in large-scale projects
 I code with the following principles:
 
 ✅ Mobile-First Design
+
 ✅ Pixel-Perfect UI
+
 ✅ Reusable Component Architecture
+
 ✅ Performance Optimization (Lighthouse, Core Web Vitals)
+
 ✅ Accessibility (a11y) Best Practices
+
 ✅ SEO-Friendly Meta Tags & Open Graph Protocol
 
 💡 Why This Stack?
